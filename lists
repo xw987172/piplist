@@ -1,0 +1,8 @@
+requests
+lxml
+numpy
+pandas
+scipy
+sklearn
+matplotlib
+jieba
