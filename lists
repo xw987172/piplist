@@ -6,3 +6,7 @@ scipy
 sklearn
 matplotlib
 jieba
+eprogress
+pycrypto
+opencv-python
+tensorflow
