@@ -10,3 +10,4 @@ eprogress
 pycrypto
 opencv-python
 tensorflow
+pymysql
