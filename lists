@@ -11,3 +11,4 @@ pycrypto
 opencv-python
 tensorflow
 pymysql
+pywin32
